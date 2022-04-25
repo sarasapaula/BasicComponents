@@ -29,7 +29,7 @@ Template starter with React Navigation
 
 ## Rapi UI
 
-![../media/hero.png](../media/hero.png)
+![https://github.com/codingki/react-native-rapi-ui/blob/HEAD/media/hero02.png](../media/hero.png)
 
 These UI components are provided by [Rapi UI](https://rapi-ui.kikiding.space/).
 Check the [documentation](https://rapi-ui.kikiding.space/docs/) for usage and more components.
